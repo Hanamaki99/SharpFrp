@@ -2,8 +2,6 @@
 
 使用方法：将配置文件hex编码命令行调用即可
 
-![image-20220226135225039](C:/Users/Administrator/OneDrive/学习笔记/HTB/img/README/image-20220226135225039.png)
-
 环境配置：
 
 - TDM-GCC
