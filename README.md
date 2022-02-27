@@ -20,4 +20,3 @@ Windows编译（TDM-GCC GO1.17.3_amd64 Vs2022）：
 通过修改FRP源代码将exe修改成dll文件（./Costura64/main.dll），通过csharp调用。
 
 注意：本项目没有对frp进行任何流量加密的修改，在实际使用中需要自己去修改并重新编译。
-
